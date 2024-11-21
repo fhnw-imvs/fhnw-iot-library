@@ -1,4 +1,4 @@
-# Library
+# FHNW IoT Hardware Library
 A simple, small scale, low volume "library management system" based on GitHub.
 
 > Work in progress, contact thomas.amberg@fhnw.ch
