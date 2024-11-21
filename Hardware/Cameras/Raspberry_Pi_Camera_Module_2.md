@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Ras
 
 ## Resources
 - https://www.raspberrypi.com/products/camera-module-v2/
+- https://www.raspberrypi.com/documentation/accessories/camera.html
