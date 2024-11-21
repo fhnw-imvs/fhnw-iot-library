@@ -6,6 +6,7 @@ Redirects to
 - [Raspberry Pi 4](../Computers/Raspberry_Pi_4.md)
 - [Raspberry Pi 5](../Computers/Raspberry_Pi_5.md)
 - [Raspberry Pi Zero W](../Computers/Raspberry_Pi_Zero_W.md)
+- [Raspberry Pi Zero 2 W](../Computers/Raspberry_Pi_Zero_2_W.md)
 - ...
 
 ## Microcontrollers
