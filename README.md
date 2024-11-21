@@ -49,6 +49,9 @@ Find an item (file) to [borrow it](../../issues/new?title=Borrow%20request%20for
 ### List my requests
 Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) (issues).
 
+<details>
+<summary>Additional use cases for admins.</summary>
+
 ### List any user's requests
 See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
 
@@ -76,6 +79,7 @@ Tag the request (issue) with `lost`.
 
 ### Take back an item
 Close the request (issue).
+</details>
 
 ### Add an item
 - Add an item (file) to a topic (directory).
