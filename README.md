@@ -79,12 +79,12 @@ Tag the request (issue) with `lost`.
 
 ### Take back an item
 Close the request (issue).
-</details>
 
 ### Add an item
 - Add an item (file) to a topic (directory).
 - Add the item to redirecting entries (files).
 - Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
+</details>
 
 ## Meta
 ### Automation
