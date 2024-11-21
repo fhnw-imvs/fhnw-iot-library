@@ -49,6 +49,7 @@ Find an item (file) to [borrow it](../../issues/new?title=Borrow%20request%20for
 ### List my requests
 Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) (issues).
 
+### More for admins
 <details>
 <summary>Additional use cases for admins.</summary>
 
