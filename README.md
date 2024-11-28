@@ -91,3 +91,8 @@ Close the request (issue).
 ### Limitations
 - A GitHub account is required to borrow items.
 - All requests, open and closed, are public.
+
+### Storage
+- Rako cases with
+- Rotho boxes with
+- Parametric [boxes](https://github.com/tamberg/boxology)
