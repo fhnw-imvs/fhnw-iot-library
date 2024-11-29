@@ -11,6 +11,7 @@ Redirects to
 
 ## Microcontrollers
 - [Adafruit Feather ESP32 Huzzah32](../Microcontrollers/Adafruit_Feather_ESP32_Huzzah32.md)
+- [Adafruit Feather ESP8266 Huzzah_w/ Stacking Headers](../Microcontrollers/Adafruit_Feather_ESP8266_Huzzah_w_Stacking_Headers.md)
 - ...
 
 ## Modules
