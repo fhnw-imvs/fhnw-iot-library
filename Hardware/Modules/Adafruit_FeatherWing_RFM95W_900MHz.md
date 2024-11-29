@@ -5,4 +5,5 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Ada
 - https://www.adafruit.com/product/3231
 - https://www.adafruit.com/product/1865
 - https://www.adafruit.com/product/1858
+- https://www.adafruit.com/product/2830
 - https://github.com/tamberg/fhnw-iot/blob/master/08/Fritzing/rfm95w_adapter.fzz?raw=true
