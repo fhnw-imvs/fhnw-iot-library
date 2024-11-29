@@ -12,6 +12,7 @@ Redirects to
 ## Microcontrollers
 - [Adafruit Feather ESP32 Huzzah32](../Microcontrollers/Adafruit_Feather_ESP32_Huzzah32.md)
 - [Adafruit Feather ESP8266 Huzzah w/ Stacking Headers](../Microcontrollers/Adafruit_Feather_ESP8266_Huzzah_w_Stacking_Headers.md)
+- [Raspberry Pi Pico 2 W RP2350](../Computers/Raspberry_Pi_Pico_2_W_RP2350.md)
 - ...
 
 ## Modules
