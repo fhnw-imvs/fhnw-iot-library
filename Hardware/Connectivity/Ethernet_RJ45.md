@@ -1,4 +1,4 @@
-# Ethernet RJ45
+# Ethernet (RJ45)
 Redirects to
 
 ## Computers
