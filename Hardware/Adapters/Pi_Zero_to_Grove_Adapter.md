@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Pi+
 
 ## Resources
 - https://www.seeedstudio.com/Grove-Base-Hat-for-Raspberry-Pi-Zero.html
+- https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi_Zero/
