@@ -95,4 +95,4 @@ Close the request (issue).
 ### Storage
 - Rako cases with
 - Rotho boxes with
-- Parametric [boxes](https://github.com/tamberg/boxology).
+- Parametric [boxes](https://github.com/tamberg/boxes).
