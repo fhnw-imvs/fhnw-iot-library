@@ -1,4 +1,4 @@
-// https://fhnw.mit-license.org
+# https://fhnw.mit-license.org
 
 import os
 import sys
