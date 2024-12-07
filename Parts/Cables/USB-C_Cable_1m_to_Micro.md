@@ -1,0 +1,2 @@
+# USB-C Cable 1m to Micro
+If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22USB-C+Cable+1m+to+Micro%22+in%3Atitle) you're welcome to [borrow this](../../../../issues/new?title=Borrow+request+for+USB-C+Cable+1m+to+Micro&body=1+piece+of+%5Bthis%5D%28..%2Fblob%2Fmain%2F.%2FParts%2FCables%2FUSB-C_Cable_1m_to_Micro.md%29+for+~2+weeks.).
