@@ -1,3 +1,5 @@
+// https://fhnw.mit-license.org
+
 import os
 import sys
 import urllib.parse
