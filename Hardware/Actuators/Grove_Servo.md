@@ -3,4 +3,3 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Gro
 
 ## Resources
 - https://wiki.seeedstudio.com/Grove-Servo/
-- https://wiki.seeedstudio.com/Grove-Servo/
