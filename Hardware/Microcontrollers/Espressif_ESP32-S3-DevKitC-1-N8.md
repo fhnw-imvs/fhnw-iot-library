@@ -3,4 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Esp
 
 ## Resources
 - https://www.adafruit.com/product/5312
-- Espressif_ESP32-S3-DevKitC-1-N32R8V.md
+- https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/index.html
