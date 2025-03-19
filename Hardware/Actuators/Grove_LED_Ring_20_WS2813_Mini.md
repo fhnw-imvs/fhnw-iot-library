@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Gro
 
 ## Resources
 - https://www.seeedstudio.com/Grove-RGB-LED-Ring-20-WS2813-Mini.html
+- https://wiki.seeedstudio.com/Grove-LED_ring/
