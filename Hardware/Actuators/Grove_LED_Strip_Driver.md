@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Gro
 
 ## Resources
 - https://www.seeedstudio.com/Grove-LED-Strip-Driver.html
+- https://wiki.seeedstudio.com/Grove-LED_Strip_Driver/
