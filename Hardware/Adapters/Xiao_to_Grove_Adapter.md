@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Xia
 
 ## Resources
 - https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html
+- https://wiki.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-embedded-battery-management-chip/
