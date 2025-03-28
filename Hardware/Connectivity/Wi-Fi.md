@@ -13,6 +13,10 @@ Redirects to
 - [Adafruit Feather ESP32 Huzzah32](../Microcontrollers/Adafruit_Feather_ESP32_Huzzah32.md)
 - [Adafruit Feather ESP8266 Huzzah w/ Stacking Headers](../Microcontrollers/Adafruit_Feather_ESP8266_Huzzah_w_Stacking_Headers.md)
 - [Adafruit Feather QT Py ESP32-S2](../Microcontrollers/Adafruit_Feather_QT_Py_ESP32-S2.md)
+- [Espressif ESP32-S2_Saola-1-R](../Microcontrollers/Espressif_ESP32-S2-Saola-1-R.md)
+- [Espressif ESP32-S3 DevKitC-1-N32R8V](../Microcontrollers/Espressif_ESP32-S3-DevKitC-1-N32R8V.md)
+- [Espressif_ESP32-S3_DevKitC-1-N8](../Microcontrollers/Espressif_ESP32-S3-DevKitC-1-N8.md)
+- [Espressif_ESP32-S3_DevKitM-1-N8](../Microcontrollers/Espressif_ESP32-S3-DevKitM-1-N8.md)
 - [Raspberry Pi Pico 2 W RP2350](../Microcontrollers/Raspberry_Pi_Pico_2_W_RP2350.md)
 - ...
 
