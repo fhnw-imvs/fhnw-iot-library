@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Ada
 
 ## Resources
 - https://www.adafruit.com/product/4264
+- https://learn.adafruit.com/adafruit-airlift-featherwing-esp32-wifi-co-processor-featherwing
