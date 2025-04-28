@@ -3,4 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Une
 
 ## Resources
 - https://www.adafruit.com/product/5399
-- https://feathers3.io
+- https://esp32s3.com/feathers3.html
