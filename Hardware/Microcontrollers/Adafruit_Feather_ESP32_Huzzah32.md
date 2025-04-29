@@ -3,3 +3,4 @@ Up to 6 pieces, check [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+
 
 ## Resources
 - https://www.adafruit.com/product/3591
+- https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
