@@ -3,4 +3,5 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22BBC
 
 ## Resources
 - https://www.seeedstudio.com/Micro-Bit-V2-p-4715.html
+- https://makecode.microbit.org
 - https://microbit.org
