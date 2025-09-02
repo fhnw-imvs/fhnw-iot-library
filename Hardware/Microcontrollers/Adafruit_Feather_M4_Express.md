@@ -3,3 +3,4 @@ Up to 6 pieces, check [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+
 
 ## Resources
 - https://www.adafruit.com/product/3857
+- https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51
