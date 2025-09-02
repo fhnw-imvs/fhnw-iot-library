@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Ada
 
 ## Resources
 - https://www.adafruit.com/product/3857
+- https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51
