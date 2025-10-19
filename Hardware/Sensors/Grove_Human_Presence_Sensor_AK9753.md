@@ -1,2 +1,6 @@
 # Grove Human Presence Sensor AK9753
 If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Grove+Human+Presence+Sensor+AK9753%22+in%3Atitle) you're welcome to [borrow this](../../../../issues/new?title=Borrow+request+for+Grove+Human+Presence+Sensor+AK9753&body=1+piece+of+%5Bthis%5D%28..%2Fblob%2Fmain%2F.%2FHardware%2FSensors%2FGrove_Human_Presence_Sensor_AK9753.md%29+for+~2+weeks.).
+
+## Resources
+- https://www.seeedstudio.com/Grove-Human-Presence-Sensor-AK9753.html
+- http://wiki.seeedstudio.com/Grove-Human_Presence_Sensor-AK9753
