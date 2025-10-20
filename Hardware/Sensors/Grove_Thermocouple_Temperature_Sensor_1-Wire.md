@@ -1,2 +1,0 @@
-# Grove Thermocouple Amplifier 1-Wire MAX31850K
-If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Grove+Thermocouple+Amplifier+1-Wire+MAX31850K%22+in%3Atitle) you're welcome to [borrow this](../../../../issues/new?title=Borrow+request+for+Grove+Thermocouple+Amplifier+1-Wire+MAX31850K&body=1+piece+of+%5Bthis%5D%28..%2Fblob%2Fmain%2F.%2FHardware%2FSensors%2FGrove_Thermocouple_Amplifier_1-Wire_MAX31850K.md%29+for+~2+weeks.).
