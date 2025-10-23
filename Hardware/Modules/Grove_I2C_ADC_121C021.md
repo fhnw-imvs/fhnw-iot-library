@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Gro
 
 ## Resources
 - https://www.seeedstudio.com/Grove-I2C-ADC.html
+- https://wiki.seeedstudio.com/Grove-I2C_ADC/
