@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Gro
 
 ## Resources
 - https://www.seeedstudio.com/Grove-1-Wire-Thermocouple-Amplifier-MAX31850K.html
+- https://wiki.seeedstudio.com/Grove-1-Wire_Thermocouple_Amplifier-MAX31850K/
