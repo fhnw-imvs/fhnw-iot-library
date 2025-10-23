@@ -1,7 +1,7 @@
 # Grove 1-Wire Thermocouple Amplifier MAX31850K
 If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Grove+1-Wire+Thermocouple+Amplifier+MAX31850K%22+in%3Atitle) you're welcome to [borrow this](../../../../issues/new?title=Borrow+request+for+Grove+1-Wire+Thermocouple+Amplifier+MAX31850K&body=1+piece+of+%5Bthis%5D%28..%2Fblob%2Fmain%2F.%2FHardware%2FModules%2FGrove_1-Wire_Thermocouple_Amplifier_MAX31850K.md%29+for+~2+weeks.).
 
-> Note: Works with [Thermocouple_Temperature_Sensor_K_Type-1M](../../Parts/Probes/Thermocouple_Temperature_Sensor_K_Type-1M.md)
+> Note: Requires [Thermocouple_Temperature_Sensor_K_Type-1M](../../Parts/Probes/Thermocouple_Temperature_Sensor_K_Type-1M.md)
 
 ## Resources
 - https://www.seeedstudio.com/Grove-1-Wire-Thermocouple-Amplifier-MAX31850K.html
