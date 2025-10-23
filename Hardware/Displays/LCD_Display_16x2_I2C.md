@@ -3,4 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22LCD
 
 ## Resources
 - https://www.adafruit.com/product/181
-- https://de.aliexpress.com/item/32810994907.html
+- [https://de.aliexpress.com/item/32810994907.html](https://de.aliexpress.com/w/wholesale-lcd-i2c-adapter.html)
