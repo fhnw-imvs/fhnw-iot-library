@@ -1,0 +1,2 @@
+# NEMA 8 Stepper Motor
+If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22NEMA+8+Stepper+Motor%22+in%3Atitle) you're welcome to [borrow this](../../../../issues/new?title=Borrow+request+for+NEMA+8+Stepper+Motor&body=1+piece+of+%5Bthis%5D%28..%2Fblob%2Fmain%2F.%2FParts%2FMotors%2FNEMA_8_Stepper_Motor.md%29+for+~2+weeks.).
