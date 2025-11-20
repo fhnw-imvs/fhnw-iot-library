@@ -93,6 +93,6 @@ Close the request (issue).
 - All requests, open and closed, are public.
 
 ### Storage
-- Rako cases with
-- Rotho boxes with
+- Rako [cases](https://www.utzgroup.ch/stapelbehaelter-rako-600-400-323-mm-21195472/) with
+- Rotho 5L [boxes](https://ch.rotho.com/products/clearbox-lady-shoe-5l-clear) with
 - Parametric [boxes](https://github.com/tamberg/boxes).
