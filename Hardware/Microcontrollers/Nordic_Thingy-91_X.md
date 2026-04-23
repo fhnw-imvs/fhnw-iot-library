@@ -3,3 +3,4 @@ If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Nor
 
 ## Resources
 - https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-91-X
+- https://docs.nordicsemi.com/category/thingy91x-category
