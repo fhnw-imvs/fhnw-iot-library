@@ -1,0 +1,2 @@
+# Nordic Thingy-91 X
+If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Nordic+Thingy-91+X%22+in%3Atitle) you're welcome to [borrow this](../../../../issues/new?title=Borrow+request+for+Nordic+Thingy-91+X&body=1+piece+of+%5Bthis%5D%28..%2Fblob%2Fmain%2F.%2FHardware%2FMicrocontrollers%2FNordic_Thingy-91_X.md%29+for+~2+weeks.).
