@@ -22,4 +22,5 @@ Redirects to
 
 ## Modules
 - [Adafruit FeatherWing ESP32 AirLift](../Modules/Adafruit_FeatherWing_ESP32_AirLift.md)
+- [Nordic nRF7002-EK](../Modules/Nordic_nRF7002-EK.md)
 - ...
