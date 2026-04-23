@@ -1,2 +1,5 @@
 # Nordic nRF7002-EK
 If there are no [open requests](../../../../issues?q=is%3Aissue+is%3Aopen+%22Nordic+nRF7002-EK%22+in%3Atitle) you're welcome to [borrow this](../../../../issues/new?title=Borrow+request+for+Nordic+nRF7002-EK&body=1+piece+of+%5Bthis%5D%28..%2Fblob%2Fmain%2F.%2FHardware%2FModules%2FNordic_nRF7002-EK.md%29+for+~2+weeks.).
+
+## Resources
+- https://www.nordicsemi.com/Products/Development-hardware/nRF7002-EK
